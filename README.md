@@ -1,4 +1,4 @@
-<h1 align="center">Nikith ⚡</h1>
+<h1 align="center">Nikith Reddy ⚡</h1>
 <h3 align="center">Building AI products that move from idea → real users</h3>
 
 <p align="center">
